@@ -1,9 +1,9 @@
 # Q1 . A   Question for User 
 
 ## URL : Excel Formula Issues 
-###LINK:  https://answers.microsoft.com/en-us/msoffice/forum/all/excel-formulas-suddenly-stopped-working/9e3eafb2-ef7b-46a2-9d94-358dcd594916 
+### LINK:  https://answers.microsoft.com/en-us/msoffice/forum/all/excel-formulas-suddenly-stopped-working/9e3eafb2-ef7b-46a2-9d94-358dcd594916 
 
-##Questions 
+## Questions 
 - Does the formula appear as text in all cells or just a few?
 -Is the format of "Text" applied to those cells?
 https://support.microsoft.com/en-us/office/format-text-in-cells-ca112674-a567-4d6f-b5f8-3100aa27f40e
