@@ -8,7 +8,7 @@
    https://www.techopedia.com/news/windows-11-2024-update-all-new-features-you-should-know-about
 
  ###  - SoftwareOK
-     https://www.softwareok.com/?seite=faq-Windows-10&faq=10
+    https://www.softwareok.com/?seite=faq-Windows-10&faq=10
      
 ## Explanation:
 Advanced settings and how to customize Windows 11 are discussed on the following websites .
